@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cubanfeed/static/css/main.700eb074.css",
+    "main.js": "/cubanfeed/static/js/main.b0dc3f24.js",
+    "static/js/787.0e84d46a.chunk.js": "/cubanfeed/static/js/787.0e84d46a.chunk.js",
+    "index.html": "/cubanfeed/index.html",
+    "main.700eb074.css.map": "/cubanfeed/static/css/main.700eb074.css.map",
+    "main.b0dc3f24.js.map": "/cubanfeed/static/js/main.b0dc3f24.js.map",
+    "787.0e84d46a.chunk.js.map": "/cubanfeed/static/js/787.0e84d46a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700eb074.css",
+    "static/js/main.b0dc3f24.js"
+  ]
+}
