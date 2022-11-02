@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 .App {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .App-logo {
@@ -35,4 +38,80 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.cseDiv {
+  padding-top: 15px;
+  font-size: 200%;
+  background-color: #282c34;
+  width: 100%;
+  height: 100%;
+  color: aliceblue;
+}
+
+.csesvg {
+  text-align: center;
+  border-radius: 20px;
+}
+
+.basicLink {
+  text-decoration: none;
+  color: #000;
+}
+
+.titleBackground {
+  background-color: rgb(179, 0, 255);
+  width: 400px;
+  margin: auto;
+  height: 150px;
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border-radius: 5px;
+}
+
+.choicesDiv{
+  width: 400px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.Button {
+  position: relative;
+  width: 175px;
+  height: 150px;
+  background-color: rgb(179, 0, 255);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  outline: 0;
+  border: none;
+  font-size: 38px;
+  max-height: 150px;
+}
+
+.B1 {
+  top: -20px;
+  left: -6%;
+}
+
+.B2 {
+  top: -20px;
+  left: 6%;
+}
+
+.B3 {
+  left: -6%;
+}
+
+.B4 {
+  left: 6%;
+}
+
+.Button:hover {
+  font-size: 35px;
 }
